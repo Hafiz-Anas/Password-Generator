@@ -27,7 +27,10 @@ h1 {
     height: 50px;
     background-color: rgba(0, 0, 0, .2);
     padding: 10px;
+    display: flex;
+    align-items: center;
     position: relative;
+    font-size: 18px;
 }
 .result-container .btn {
     width: 40px;
